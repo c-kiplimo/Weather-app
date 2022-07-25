@@ -5,7 +5,4 @@
 
 #The user is able to search for the city of his own choice.
 
-#Sample images below.
 
-my-image.png
-my-image.png
