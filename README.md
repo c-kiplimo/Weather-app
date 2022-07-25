@@ -7,5 +7,5 @@
 
 #Sample images below.
 
-![My Image](my-image.png)
-![My Image](my-image.png)
+my-image.png
+my-image.png
